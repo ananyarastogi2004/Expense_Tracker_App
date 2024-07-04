@@ -14,3 +14,30 @@ The app supports the following features:
 
 4. **Theme and Responsiveness:**
    - The app adapts seamlessly to user preferences. Whether in light or dark mode, the interface remains visually appealing and user-friendly. Additionally, its responsive design ensures optimal usability across various devices.
+
+<p style="margin-bottom: 40px;">
+Light Mode SnapShots
+</p>
+<p style="margin-bottom: 40px;">
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/ananyarastogi2004/Expense_Tracker_App/blob/main/images/Light%20Home.png" alt="Home Screen" width="300" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ananyarastogi2004/Expense_Tracker_App/blob/main/images/Light%20Modal%20Sheet.png" alt="Adding New Expense" width="300" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ananyarastogi2004/Expense_Tracker_App/blob/main/images/Date%20Picker.png" alt="Date Picker" width="300" />
+</div>
+</p>
+<p style="margin-bottom: 40px;">
+Dark Mode SnapShots
+</p>
+<p style="margin-bottom: 40px;">
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/ananyarastogi2004/Expense_Tracker_App/blob/main/images/Dark%20Home.png" alt="Home Screen" width="300" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ananyarastogi2004/Expense_Tracker_App/blob/main/images/Dark%20Modal%20Sheet.png" alt="Adding New Expense" width="300" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ananyarastogi2004/Expense_Tracker_App/blob/main/images/Dark%20Home%202.png" alt="Home Screen after adding new Expense" width="300" />
+</div>
+</p>
+
+
